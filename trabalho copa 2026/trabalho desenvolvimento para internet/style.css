@@ -1,0 +1,26 @@
+body {
+    background-color: #e9f5ec; /* verde bem suave */
+}
+table {
+    background-color: white;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th {
+    background-color: #2e7d32;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #c6f7ce;
+}
+td, th {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+h1 {    
+    text-align: center;
+    color: rgb(142, 198, 113);
+}   
